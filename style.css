@@ -1,0 +1,681 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rasm2 {
+    width: 32px;
+    height: 32px;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+.responsive {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: azure;
+    justify-content: space-between;
+    padding: 0px 15px 0px 15px;
+    align-items: center;
+
+}
+
+.headir1 {
+    gap: 20px;
+
+
+}
+
+.sidebar {
+    width: 20%;
+    height: auto;
+    top: 49px;
+    gap: 14px;
+    opacity: 0px;
+    background-color: black;
+    color: white;
+
+}
+
+.images1 {
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    padding: 0px 0px 0px 28px;
+    gap: 15px;
+}
+
+
+
+.side-img {
+    width: 340px;
+    padding: 15px 25px 0px 25px;
+
+}
+
+.tittle {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.tittle span {
+    padding: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    padding-left: 25px;
+}
+
+.harf h2,
+p {
+    margin: 5px;
+    gap: 12px;
+
+}
+
+.side-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.body1 {
+    background-image: url(./images/rasm2.png);
+    width: 80%;
+    height: 1400px;
+    color: white;
+
+
+}
+
+.body2 {
+    background-image: url(./images/rasm2.png);
+    width: 80%;
+    color: white;
+    height: 1800px;
+
+}
+.body3 {
+    background-image: url(./images/rasm2.png);
+    width: 80%;
+    color: white;
+    height: 1050px;
+}
+
+
+
+.body111 {
+    background-image: url(./images/rasm2.png);
+    width: 80%;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding-top: 400px;
+
+}
+
+.h1teg {
+    width: 633px;
+    margin: 0 auto;
+    gap: 20px;
+
+    font-family: Poppins;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+
+
+}
+
+.pteg {
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+
+}
+
+.lobar {
+    color: rgba(57, 150, 95, 1);
+    font-size: 44px;
+}
+
+.man {
+    font-size: 44px;
+}
+
+.loyiha {
+    background: rgba(57, 150, 95, 1);
+    width: 169px;
+    height: 53px;
+    padding: 8px 44px 8px 44px;
+    gap: 10px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    margin-top: 35px;
+    color: white;
+    font-size: 18px;
+
+}
+
+.active {
+    border-bottom: 1px solid rgba(57, 150, 95, 1);
+}
+
+.headir1 a {
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+.menhaqimda {
+    margin-left: 20px;
+}
+
+.divv {
+    width: 112px;
+    height: 8px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid rgba(57, 150, 95, 1);
+    background: rgba(57, 150, 95, 1);
+    margin-left: 20px;
+}
+
+.divv p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    width: 912px;
+    height: 243px;
+    padding-top: 12px;
+}
+
+.button1 {
+    background: rgba(57, 150, 95, 1);
+    width: 181px;
+    height: 43px;
+    padding: 8px 44px 8px 44px;
+    gap: 10px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    border: none;
+    color: white;
+    margin-left: 20px;
+}
+
+.h1tegg {
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: left;
+    width: 260px;
+    height: 42px;
+    margin-left: 20px;
+
+}
+
+.rasmlar {
+    width: 213px;
+    height: 124px;
+    padding: 20px 0px 0px 0px;
+    gap: 14px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(27, 27, 27, 1);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.pastgirasm {
+    width: 915px;
+    height: 270px;
+    gap: 20px;
+    opacity: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+
+}
+
+
+.divv1 {
+    width: 112px;
+    height: 8px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid rgba(57, 150, 95, 1);
+    background: rgba(57, 150, 95, 1);
+
+}
+
+.yozuv1 h1 {
+    font-family: Poppins;
+    font-size: 33px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: left;
+    width: 362px;
+    height: 42px;
+    margin-top: 150px;
+}
+
+
+
+.rasm11 {
+    width: 919px;
+    height: 268px;
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.rasmpastgi p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0;
+}
+
+.content_info {
+    margin: 0;
+}
+
+.content_info_p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+
+
+
+}
+
+.box_info {
+    display: flex;
+    gap: 10px;
+    background: rgba(27, 27, 27, 1);
+    border-radius: 12px 12px 12px 12px;
+    border: 1px;
+    padding: 20px;
+    height: 124px;
+    width: 400px;
+}
+
+.fghj {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+
+.oxir {
+    gap: 25px;
+    margin-top: 12px;
+    align-items: center;
+}
+
+.filterlar {
+    width: 100px;
+    height: 34px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 6px;
+    bottom: 1px 1px 1px 1px;
+    background: rgba(27, 27, 27, 1);
+    margin-top: 30px;
+    margin-left: 20px;
+    background: rgba(39, 39, 39, 1);
+
+}
+
+.filterlash {
+    width: 62px;
+    height: 24px;
+    background: rgba(27, 27, 27, 1);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 5px;
+    background: rgba(39, 39, 39, 1);
+
+
+}
+
+.imagee {
+    margin-top: 10px;
+}
+
+.loyiha1 {
+    margin-left: 20px;
+}
+
+.gaop {
+    margin-left: 800px;
+   
+
+}
+
+.rasm12 {
+
+    margin-top: 32px;
+    display: flex;
+    gap: 55px;
+    margin-left: 20px;
+}
+
+.buyi {
+    width: 544px;
+    height: 340px;
+}
+
+.doira {
+    width: 8px;
+    height: 8px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 9px;
+    opacity: 0px;
+    background: rgba(197, 34, 31, 1);
+
+}
+
+.tittle1 {
+    width: 444px;
+    height: 30px;
+    justify-content: space-between;
+
+
+}
+
+.padin {
+    padding-top: 12px;
+    width: 69px;
+    height: 24px;
+    opacity: 0px;
+
+
+}
+
+.padin div {
+    margin-top: 10px;
+    gap: 5px;
+}
+
+.ranguchun a {
+    color: rgba(27, 27, 27, 1);
+
+
+}
+
+.pastkiqism {
+    width: 444px;
+    height: 52px;
+    gap: 35px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    padding-top: 35px;
+}
+
+.rasm5 {
+    margin-left: 12px;
+    padding-top: 15px;
+}
+
+.nimadir {
+    width: 100%;
+    height: 784px;
+   
+    justify-content: start;
+    gap: 80px;
+
+}
+
+.ranguchunn a {
+    color: #39965F;
+}
+.oxirgiqism{
+    width: 90%;
+    height: 208px;
+    top: 936px;
+    left: 20px;
+    gap: 32px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(27, 27, 27, 1);
+    margin-top: 100px;
+    margin-left: 40px;
+   
+ 
+
+}
+
+.telegram_img{
+    width: 64px;
+    height: 64px;
+    padding: 7.34px 2.15px 7.34px 2.15px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+
+}
+.text1{
+    width:406px;
+    height:160px;
+    top: 24px;
+    left: 208px;
+    margin-left: 100px;
+    
+
+
+}
+.sekshen_2{
+    width: 406px;
+    height: 54px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.7);
+    
+
+}
+.tg_button{
+    width:178px;
+    height:40px;
+    padding: 8px 24px 8px 24px;
+    border-radius: 8px;
+    margin-top: 10px;
+    background: rgba(57, 150, 95, 1);
+    color: white;
+
+}
+.megafon{
+   margin: auto;
+ margin-right: -0px;
+}
+
+.wind{
+    width: 144px;
+    height: 144px;
+    top: 45.27px;
+    left: 770.36px;
+    padding: 16.58px 0.11px 16.12px 0.88px;
+    margin-top: -230px;
+    margin-left: 1040px;
+}
+.email{
+    width:290.67px;
+    height: 190px;
+    padding: 28px 0px 28px 0px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(27, 27, 27, 1);
+    
+}
+.teg{
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.ramka1{
+    width:370px;
+    height:190px;
+    padding: 28px 0px 28px 0px;
+    gap: 0px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    background: rgba(27, 27, 27, 1);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    text-align: center;    
+  margin-top: 18px;
+   margin-left: 35px;
+}
+.ramka2{
+    gap: 55px;
+}
+.divv3 {
+    width: 112px;
+    height: 8px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid rgba(57, 150, 95, 1);
+    background: rgba(57, 150, 95, 1);
+    margin-left: 35px;
+}
+.ramka3{
+    width: 1112px;
+height: 420px;
+padding: 20px 20px 20px 20px;
+gap: 20px;
+border-radius: 12px 12px 12px 12px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: rgba(27, 27, 27, 1);
+border: 1px solid rgba(255, 255, 255, 0.25);
+margin-left: 35px;
+margin-top: 25px;
+}
+.divv4{
+    width: 420px;
+    height: 24px;
+    padding: 10px 20px 10px 20px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+  
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left;
+   
+
+
+}
+  .input{
+    width: 380px;
+    height: 44px;
+    border-radius: 10px 0px 0px 10px ;
+    border: 1px solid rgba(197, 34, 31, 1);
+    background: rgba(27, 27, 27, 1);
+    color: rgba(197, 34, 31, 1);
+ 
+  }  
+.option{
+    width: 137px;
+    height: 44px;
+    padding: 10px 16px 10px 16px;
+    gap: 10px;
+    border-radius: 0px 6px 6px 0px;
+    border: 1px 1px 1px 0px;
+    opacity: 0px;
+     margin-left: -4px;
+     background: rgba(27, 27, 27, 1);
+     color: white;
+
+}
+.izoh{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.input1{
+    width: 380px;
+    height: 44px;
+    border-radius: 10px 10px 10px 10px ;
+    border: 1px solid  rgba(255, 255, 255, 0.7);
+    background: rgba(27, 27, 27, 1);
+    color:white;
+}
+.option1{
+    gap: 55px;
+}
+
+.ramka4{
+    width: 872px;
+    height: 192px;
+    padding: 10px 20px 10px 20px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid  rgba(197, 34, 31, 1);
+    background: rgba(27, 27, 27, 1);
+    color: white;
+}
+.button2{
+    width: 158px;
+    height: 50px;
+    padding: 8px 44px 8px 44px;
+    gap: 10px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    background: rgba(57, 150, 95, 1);
+    border: none;
+    margin-top: 12px;
+}
+
+.ramka5{
+   
+
+}
+
+.ent{
+    gap: 10px;
+}
+
+
+
